@@ -5,10 +5,11 @@ You can use custom emojis! Alternatives for Twemoji (opensource).
 *only works clients 2020November, not 2017July*
 Clients:
 * [Roblox](http://www.roblox.com/)
+* [Bloxstrap](http://github.com/pizzaboxer/bloxstrap)
 
 ## To-Do
 *U - unicode version*
-- [x] MSWindows EmojisFonts (8.0, 8.1, 10, 11.) (U: 6/14)
+- [x] MSWindows Color Emojis (8.0, 8.1, 10, 11.) (U: 6/14)
 - [x] Catmoji - modded Twemoji (U: 13)
 - [x] OneMoji Symbols Emojis (U: 12)
 - [ ] Apple Color Emoji (U: 13)
@@ -34,3 +35,12 @@ Clients:
     <img src="assets/screen2-win.png" width="75%">
   </a>
 </p>
+
+## FAQ
+ * **You can add support for Old Roblox Revivals 2017/2020**
+
+ This is very hard making for exclusive orc, is using emojis sprite.
+ 
+ * **Only Windows**
+
+ Yes, only windows, im don't add support for another OC's.
