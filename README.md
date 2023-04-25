@@ -3,7 +3,7 @@
 </p>
 
 # Custom Roblox EmojiFonts
-You can use custom emojis! Alternatives for Twemoji (opensource).
+You can use custom emojis on Roblox! Alternatives for Twemoji (opensource).
 
 ## Support Clients
 *only works clients 2020November, not 2017July*
