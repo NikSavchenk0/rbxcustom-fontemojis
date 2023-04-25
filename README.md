@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/rbxcef-icon.png" width="256">
+</p>
+
 # Custom Roblox EmojiFonts
 You can use custom emojis! Alternatives for Twemoji (opensource).
 
