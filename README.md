@@ -47,4 +47,4 @@ Clients:
  
  * **Only Windows**
 
- Yes, only windows, im don't add support for another OC's.
+ Yes, only windows, im don't add support for another OS's.
