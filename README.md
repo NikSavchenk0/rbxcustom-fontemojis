@@ -50,3 +50,7 @@ Clients:
  * **Only Windows**
 
  Yes, only windows, im don't add support for another OS's.
+ 
+  * **How2Change Default TwemojiMozilla.ttf**
+
+ version-id > content > fonts > TwemojiMozilla01.ttf (rename file) > paste custom font + rename ("TwemojiMozilla.ttf") > launch Roblox
