@@ -14,7 +14,7 @@ Clients:
 * [Roblox Player Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager)
 
 ## To-Do
-*U - unicode version*
+*U - unicode version (minium version unicode: 12)*
 - [x] MSWindows Color Emojis (8.0, 8.1, 10, 11.) (U: 6/14)
 - [x] Catmoji - modded Twemoji (U: 13)
 - [x] OneMoji Symbols Emojis (U: 12)
