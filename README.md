@@ -10,6 +10,8 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (opensource).
 Clients:
 * [Roblox](http://www.roblox.com/)
 * [Bloxstrap](http://github.com/pizzaboxer/bloxstrap)
+* [Roblox Studio Mod Manager](https://github.com/Malte0621/Roblox-Player-Mod-Manager)
+* [Roblox Player Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager)
 
 ## To-Do
 *U - unicode version*
