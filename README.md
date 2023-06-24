@@ -49,7 +49,7 @@ Clients:
  
  * **Only Windows**
 
- Yes, only windows, im don't add support for another OS's. All fonts support format SVG (100x100)
+ Yes, only windows, im don't add support for another OS's. Fonts support format SVG (100x100)
  
   * **How2Install Custom EmojiFont**
 
