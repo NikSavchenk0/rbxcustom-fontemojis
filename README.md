@@ -18,10 +18,10 @@ Clients:
 - [x] MSWindows Color Emojis (8.0, 8.1, 10, 11.) (U: 6/14)
 - [x] Catmoji - modded Twemoji (U: 13)
 - [x] OneMoji Symbols Emojis (U: 12)
+- [ ] MSFluent Color Emoji 3D (U: 14) [coming soon]
 - [ ] Apple Color Emoji (U: 13)
 - [ ] Noto Color Emoji (U: 14)
 - [ ] Facebook/WhatsApp Color Emoji (U: 14)
-- [ ] MSFluent Color Emoji 3D (U: 14)
 - [ ] JoyPixels 7.0 Color Emoji (U: 14)
 - [ ] Samsung Color Emoji (U: 14)
 
@@ -49,7 +49,7 @@ Clients:
  
  * **Only Windows**
 
- Yes, only windows, im don't add support for another OS's.
+ Yes, only windows, im don't add support for another OS's. All fonts support format SVG (100x100)
  
   * **How2Install Custom EmojiFont**
 
