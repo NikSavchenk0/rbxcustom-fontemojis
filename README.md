@@ -4,6 +4,7 @@
 
 # Custom Roblox EmojiFonts
 You can use custom emojis on Roblox! Alternatives for Twemoji (opensource).
+* [GameBanana](https://gamebanana.com/mods/455178)
 
 ## Support Clients
 *only works clients 2020November, not 2017July*
