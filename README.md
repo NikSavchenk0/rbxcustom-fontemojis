@@ -61,3 +61,8 @@ Clients:
 <a href="#start-of-content">👆 Scroll to top</a>
 </td></table>
 </div>
+<!--
+Early: January, February, March, April
+Mid: May, June, July, August
+Late: September, October, November, December
+-->
