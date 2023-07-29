@@ -58,6 +58,6 @@ Clients:
 
  <div align="right">
 <table><td>
-<a href="#custom-roblox-emojifonts">👆 Scroll to top</a>
+<a href="#start-of-content">👆 Scroll to top</a>
 </td></table>
 </div>
