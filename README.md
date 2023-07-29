@@ -7,7 +7,7 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (opensource).
 * [GameBanana](https://gamebanana.com/mods/455178)
 
 ## Support Clients
-*only works clients 2020November, not 2017July*
+*only works clients 2020L (November), not 2017M (July)*
 Clients:
 * [Roblox](http://www.roblox.com/)
 * [Bloxstrap](http://github.com/pizzaboxer/bloxstrap)
@@ -55,3 +55,9 @@ Clients:
   * **How2Install Custom EmojiFont**
 
  version-id > content > fonts > TwemojiMozilla01.ttf (rename file) > paste custom font + rename ("TwemojiMozilla.ttf") > launch Roblox
+
+ <div align="right">
+<table><td>
+<a href="#custom-roblox-emojifonts">👆 Scroll to top</a>
+</td></table>
+</div>
