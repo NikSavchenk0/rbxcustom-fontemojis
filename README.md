@@ -8,14 +8,16 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (opensource).
 
 ## Support Clients
 *only works clients 2020L (November), not 2017M (July)*
-Clients:
+#### ✨Clients:
 * [Roblox](http://www.roblox.com/)
 * [Bloxstrap](http://github.com/pizzaboxer/bloxstrap)
 * [Roblox Studio Mod Manager](http://github.com/MaximumADHD/Roblox-Studio-Mod-Manager)
 * [Roblox Player Mod Manager](http://github.com/Malte0621/Roblox-Player-Mod-Manager)
+#### ⌚Revivals:
+* [Limrev 2020L (1 / 71)](http://www.roblox.cat/)
 
 ## To-Do
-*U - unicode version (minium version unicode: 12)*
+*U - unicode version (minimal version unicode: 13)*
 - [x] MSWindows Color Emojis (8.0, 8.1, 10, 11.) (U: 6/14)
 - [x] Catmoji - modded Twemoji (U: 13)
 - [x] OneMoji Symbols Emojis (U: 12)
@@ -50,7 +52,7 @@ Clients:
  
  * **Only Windows**
 
- Yes, only windows, im don't add support for another OS's. Fonts support format SVG (100x100)
+ Yes, only Windows 7+ or Android 13+, im don't add support for another OS's. Fonts support format SVG (100x100)
  
   * **How2Install Custom EmojiFont**
 
