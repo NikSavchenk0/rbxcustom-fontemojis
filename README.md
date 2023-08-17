@@ -22,6 +22,7 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (opensource).
 - [x] Noto Symbols Emojis (U: 14)
 - [x] Catmoji - modded Twemoji (U: 13)
 - [x] OneMoji Symbols Emojis (U: 12)
+- [x] OneMoji Color Emoji (U: 12)
 - [ ] MSFluent Color Emoji 3D (U: 14) [coming soon]
 - [ ] Apple Color Emoji (U: 13)
 - [ ] Noto Color Emoji (U: 14)
