@@ -15,6 +15,7 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (opensource).
 * [Roblox Player Mod Manager](http://github.com/Malte0621/Roblox-Player-Mod-Manager)
 #### ⌚Revivals:
 * [Limrev 2020L (1 / 71)](http://www.roblox.cat/)
+* [Roblox Filtering Disabled 2020L](http://jetray.itch.io/roblox-filtering-disabled)
 
 ## To-Do
 *U - unicode version (minimal version unicode: 13)*
