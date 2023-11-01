@@ -5,7 +5,7 @@
 # Custom Roblox EmojiFonts
 You can use custom emojis on Roblox! Alternatives for Twemoji (opensource).
 > [!IMPORTANT]
-> Mod is now avabilable on [Bloxstrap](http://github.com/pizzaboxer/bloxstrap), [GameBanana](https://gamebanana.com/mods/455178).
+> Modification is now avabilable on [Bloxstrap](http://github.com/pizzaboxer/bloxstrap), [GameBanana](https://gamebanana.com/mods/455178).
 
 ## Support Clients
 *only works clients 2020L (November), not 2017M (July)*
