@@ -59,11 +59,15 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (opensource).
  
  * **Only Windows**
 
- Yes, only Windows 7+ or Android 13+, im don't add support for another OS's. Fonts support format SVG (100x100) [COLRv1]
+ Yes, only Windows 7+ or Android 13+, im don't add support for another OS's. Fonts support format SVG (100x100) [COLRv1].
  
-  * **How2Install Custom EmojiFont**
+ * **How2Install Custom EmojiFont**
 
- version-id > content > fonts > TwemojiMozilla01.ttf (rename file) > paste custom font + rename ("TwemojiMozilla.ttf") > launch Roblox
+ version-id > content > fonts > TwemojiMozilla01.ttf (rename file) > paste custom font + rename ("TwemojiMozilla.ttf") > launch Roblox.
+
+  * **I can use on my bootstrapper for Roblox**
+
+ Yes, u can fork my project or download.
 
  <div align="right">
 <table><td>
