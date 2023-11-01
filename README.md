@@ -4,18 +4,23 @@
 
 # Custom Roblox EmojiFonts
 You can use custom emojis on Roblox! Alternatives for Twemoji (opensource).
-* [GameBanana](https://gamebanana.com/mods/455178)
+> [!IMPORTANT]
+> Mod is now avabilable on [Bloxstrap](http://github.com/pizzaboxer/bloxstrap), [GameBanana](https://gamebanana.com/mods/455178).
 
 ## Support Clients
 *only works clients 2020L (November), not 2017M (July)*
 #### ✨Clients:
-* [Roblox](http://www.roblox.com/)
-* [Bloxstrap](http://github.com/pizzaboxer/bloxstrap)
-* [Roblox Studio Mod Manager](http://github.com/MaximumADHD/Roblox-Studio-Mod-Manager)
-* [Roblox Player Mod Manager](http://github.com/Malte0621/Roblox-Player-Mod-Manager)
+* <img src="https://i.ibb.co/4S2GBqw/2022-Site-Favicon.webp" alt="Roblox" width="17" height="17"/> [Roblox](http://www.roblox.com/)
+* <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" alt="Bloxstrap" width="17" height="17"/> [Bloxstrap](http://github.com/pizzaboxer/bloxstrap)
+* <img src="https://raw.githubusercontent.com/MaximumADHD/Roblox-Studio-Mod-Manager/master/ProjectSrc/Resources/Logo.png" alt="RbxSModManager" width="17" height="17"/> [Roblox Studio Mod Manager](http://github.com/MaximumADHD/Roblox-Studio-Mod-Manager)
+* <img src="https://raw.githubusercontent.com/MaximumADHD/Roblox-Studio-Mod-Manager/master/ProjectSrc/Resources/Logo.png" alt="RbxSModManager" width="17" height="17"/> [Roblox Player Mod Manager](http://github.com/Malte0621/Roblox-Player-Mod-Manager)
+#### 🐧Linux:
+* <img src="https://github.com/vinegarhq/vinegar/blob/master/splash/vinegar.png" alt="Vinegar" width="17" height="17"/> [Vinegar](http://github.com/vinegarhq/vinegar)
+* <img src="https://gitlab.com/uploads/-/system/project/avatar/11688812/Grapejuice.png" alt="Grapejuice" width="17" height="17"/> [Grapejuice](http://gitlab.com/brinkervii/grapejuice)
+* <img src="https://github.com/Bugadinho/Cork/raw/master/resources/cork.svg" alt="Cork" width="17" height="17"/> [Cork](http://github.com/CorkHQ/Cork)
 #### ⌚Revivals:
-* [Limrev 2020L (1 / 71)](http://www.roblox.cat/)
-* [Roblox Filtering Disabled 2020L](http://jetray.itch.io/roblox-filtering-disabled)
+* <img src="https://github.com/NikSavchenk0/rbxcustom-fontemojis/assets/58150480/e3d1abc6-d172-4c62-9505-ce75393c0fee" alt="Limrev" width="17" height="17"/> [Limrev 2020L (RIP)](http://www.roblox.cat/)
+* <img src="https://img.itch.zone/aW1nLzEzMTU5MTUwLmpwZw==/315x250%23c/28t7d4.jpg" alt="RbxFD" width="17" height="17"/> [Roblox Filtering Disabled 2020L](http://jetray.itch.io/roblox-filtering-disabled)
 
 ## To-Do
 *U - unicode version (minimal version unicode: 13)*
@@ -66,6 +71,11 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (opensource).
 </td></table>
 </div>
 <!--
+* [Limrev 2020L (RIP)](http://www.roblox.cat/)
+---
+> [!WARNING]
+> Applejuice is still in VERY EARLY development, and may not work as expected.
+---
 Early: January, February, March, April
 Mid: May, June, July, August
 Late: September, October, November, December
