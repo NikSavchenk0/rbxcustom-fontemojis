@@ -59,7 +59,7 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (opensource).
  
  * **Only Windows**
 
- Yes, only Windows 7+ or Android 13+, im don't add support for another OS's. Fonts support format SVG (100x100) [COLRv0].
+ Yes, only Windows 7+ or Android 13+, im don't add support for another OS's. Fonts support format SVG (100x100) [COLRv0/COLRv1].
  
  * **How2Install Custom EmojiFont**
 
