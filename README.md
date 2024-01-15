@@ -7,7 +7,7 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (opensource).
 > [!IMPORTANT]
 > Modification is now avabilable on [Bloxstrap](http://github.com/pizzaboxer/bloxstrap), [GameBanana](https://gamebanana.com/mods/455178).
 
-## Support Clients
+## ✅Support Clients
 *only works clients 2020L (November), not 2017M (July)*
 #### ✨Clients:
 * <img src="https://i.ibb.co/4S2GBqw/2022-Site-Favicon.webp" alt="Roblox" width="17" height="17"/> [Roblox](http://www.roblox.com/) 
@@ -22,7 +22,7 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (opensource).
 * <img src="https://github.com/NikSavchenk0/rbxcustom-fontemojis/assets/58150480/e3d1abc6-d172-4c62-9505-ce75393c0fee" alt="Limrev" width="17" height="17"/> [Limrev 2020L](http://www.roblox.cat/) <sup>`🪦`</sup>
 * <img src="https://img.itch.zone/aW1nLzEzMTU5MTUwLmpwZw==/315x250%23c/28t7d4.jpg" alt="RbxFD" width="17" height="17"/> [Roblox Filtering Disabled 2020L](http://jetray.itch.io/roblox-filtering-disabled)
 
-## To-Do
+## 📜To-Do
 *U - unicode version (minimal version unicode: 13)*
 - [x] MSWindows Color Emojis (8.0, 8.1, 10, 11.) (U: 6/14)
 - [x] Noto Symbols Emojis (U: 14/15)
@@ -30,14 +30,15 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (opensource).
 - [x] OneMoji Symbols Emojis (U: 12)
 - [x] Symbola Symbols Emoji (U: 14)
 - [x] Docomo Symbols Emoji (U: 3)
-- [ ] MSFluent Color Emoji 3D (U: 14) [coming soon]
+- [ ] Tossface Color Emoji (U: 14) **[coming soon/COLRv0]**
+- [ ] MSFluent Color Emoji 3D (U: 14) **[coming soon/COLRv1]**
 - [ ] Apple Color Emoji (U: 13)
 - [ ] Noto Color Emoji (U: 14)
 - [ ] Facebook/WhatsApp Color Emoji (U: 14)
 - [ ] JoyPixels 7.0 Color Emoji (U: 14)
 - [ ] Samsung Color Emoji (U: 14)
 
-## Screenshots
+## 🖼Screenshots
 <p align="center">
   <a href="#">
     <img src="assets/screenshot1.png" width="75%">
@@ -54,7 +55,7 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (opensource).
   </a>
 </p>
 
-## FAQ
+## 🗣FAQ
  * **You can add support for Old Roblox Revivals 2017/2020**
 
  This is very hard making for exclusive orc, is using emojis sprite.
