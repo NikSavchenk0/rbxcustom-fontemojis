@@ -56,10 +56,9 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (opensource).
 </p>
 
 ## 🗣FAQ
-
-| <img src="https://github.com/NikSavchenk0/rbxcustom-fontemojis/raw/preview/assets/caution.svg"/> <span style='color: red;'>Caution</span> | COLRv1 is temporarily no support by Roblox. |
-|---------------|:------------------------|
-
+> [!CAUTION]
+> **COLRv1** is temporarily no support on Roblox.
+***
 > [!TIP]
 > **You can add support for Old Roblox Revivals 2017/2020**
 > 
