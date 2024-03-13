@@ -9,6 +9,9 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (opensource).
 
 ## ✅Support Clients
 *only works clients 2020L (November), not 2017M (July)*
+> [!WARNING]
+> **COLRv1** is temporarily no support on Roblox.
+
 #### ✨Clients:
 * <img src="https://i.ibb.co/4S2GBqw/2022-Site-Favicon.webp" alt="Roblox" width="17" height="17"/> [Roblox](http://www.roblox.com/) 
 * <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" alt="Bloxstrap" width="17" height="17"/> [Bloxstrap](http://github.com/pizzaboxer/bloxstrap) <sup>`FOSS`</sup>
@@ -56,9 +59,7 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (opensource).
 </p>
 
 ## 🗣FAQ
-> [!CAUTION]
-> **COLRv1** is temporarily no support on Roblox.
-***
+
 > [!TIP]
 > **You can add support for Old Roblox Revivals 2017/2020**
 > 
