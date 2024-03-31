@@ -34,7 +34,7 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (opensource).
 - [x] Symbola Symbols Emoji (U: 14)
 - [x] Docomo Symbols Emoji (U: 3)
 - [ ] Tossface Color Emoji (U: 14) **[coming soon/COLRv0]**
-- [ ] MSFluent Color Emoji 3D (U: 14) **[coming soon/COLRv1]**
+- [ ] MSFluent Color Emoji 3D (U: 14) **[coming soon/COLRv1]** <sup>`🏆D&AD Award '23`</sup>
 - [ ] Apple Color Emoji (U: 13)
 - [ ] Noto Color Emoji (U: 14)
 - [ ] Facebook/WhatsApp Color Emoji (U: 14)
