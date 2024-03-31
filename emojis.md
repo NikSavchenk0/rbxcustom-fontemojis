@@ -20,7 +20,7 @@
 | Emojis: 1739 | Emojis: 1760 | Emojis: ~1774 |
 | Unicode: 14 | Unicode: 15 | Unicode: 15.1 |
 ---
-### MSFluent Emoji 3D (by: Microsoft)
+### MSFluent Emoji 3D (by: Microsoft x Studio Tendril)
 |15|
 |:---:|
 | Emojis: ~4100 |
