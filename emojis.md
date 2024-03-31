@@ -2,7 +2,7 @@
 *[only COLRv0 support roblox, no COLRv1.]*
 
 ---
-### TwemojiMozilla (by: Mozilla)
+### TwemojiMozilla (by: Mozilla x Twitter)
 |13|
 |:---:|
 | Emojis: 1739 |
