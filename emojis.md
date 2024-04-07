@@ -38,6 +38,12 @@
 | Emojis: 1739 |
 | Unicode: 14 |
 ---
+### UnifontExMono (by: Unifoundry)
+|15|
+|:---:|
+| Emojis: ~1774 |
+| Unicode: 15 |
+---
 ### Docomo Symbol Emoji (by: meownica)
 |2000-era|
 |:---:|
