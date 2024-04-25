@@ -38,7 +38,7 @@
 | Emojis: 1739 |
 | Unicode: 14 |
 ---
-### UnifontExMono (by: Unifoundry)
+### UnifontExMono (by: stgiga x Unifoundry)
 |15|
 |:---:|
 | Emojis: ~1774 |
