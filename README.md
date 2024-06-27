@@ -30,10 +30,11 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (opensource).
 - [x] MSWindows Color Emojis (8.0, 8.1, 10, 11.) (U: 6/14)
 - [x] Noto Symbols Emojis (U: 14/15)
 - [x] Catmoji - modded Twemoji (U: 13)
-- [x] OneMoji Symbols Emojis (U: 12)
-- [x] Symbola Symbols Emoji (U: 14)
-- [x] UnifontExMono Symbols Emoji (U: 15) **[coming soon/U: 16]**
-- [x] Docomo Symbols Emoji (U: 3)
+- [x] Emojione Color Emoji (U: 9)
+- [x] Emojione BnW Emojis (U: 12)
+- [x] Symbola BnW Emoji (U: 14)
+- [x] UnifontExMono BnW Emoji (U: 15) **[coming soon/U: 16]**
+- [x] Docomo BnW Emoji (U: 3)
 - [ ] Catrinity Color Emoji (U: 15) **[coming soon/U: 16]**
 - [ ] Tossface Color Emoji (U: 14-15) **[coming soon/COLRv0]**
 - [ ] MSFluent Color Emoji 3D (U: 14-15) **[coming soon/COLRv1]** <sup>`🏆D&AD Award '23`</sup>
