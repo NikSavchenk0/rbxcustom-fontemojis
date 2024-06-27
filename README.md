@@ -28,7 +28,7 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (opensource).
 ## 📜To-Do
 *U - unicode version (minimal version unicode: 13)*
 - [x] MSWindows Color Emojis (8.0, 8.1, 10, 11.) (U: 6/14)
-- [x] Noto Symbols Emojis (U: 14/15)
+- [x] Noto BnW Emojis (U: 14/15)
 - [x] Catmoji - modded Twemoji (U: 13)
 - [x] Emojione Color Emoji (U: 9)
 - [x] Emojione BnW Emojis (U: 12)
