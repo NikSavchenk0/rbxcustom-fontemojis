@@ -77,7 +77,7 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (opensource).
 > [!TIP]
 > **You can add support for Old Roblox Revivals 2017/2020**
 > 
-> This is very hard making for exclusive orc, is using emojis sprite.
+> This is very hard making for exclusive orc, is using <ins>emojis sprite</ins>.
 > 
 > ***
 > 
