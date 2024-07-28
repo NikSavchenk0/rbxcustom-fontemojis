@@ -102,7 +102,7 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (opensource).
 >
 > **I can use on my bootstrapper for Roblox**
 >
-> Yes, u can fork my project or download.
+> Yes, u can **fork** my project or **download**.
 
 
  <div align="right">
