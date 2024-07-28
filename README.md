@@ -18,7 +18,7 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (opensource).
 - **<kbd>FORK</kbd>** Uses the source code of an other project as a starting point, then adds modifications on top of it.
 - **<kbd>🪦</kbd>** Discontinued/paused indefinitely.
 - **<kbd>💰</kbd>** Paid.
-- **<kbd>📆</kbd>** That in development.
+- **<kbd>📆</kbd>** That in development/planned.
 - **<kbd>🏆</kbd>** Winner on nominations.
 
 #### ✨Clients:
