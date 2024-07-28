@@ -2,7 +2,7 @@
 *[only COLRv0 support roblox, no COLRv1.]*
 
 ---
-### TwemojiMozilla (by: Mozilla)
+### TwemojiMozilla (by: Mozilla x Twitter)
 |13|
 |:---:|
 | Emojis: 1739 |
@@ -20,7 +20,7 @@
 | Emojis: 1739 | Emojis: 1760 | Emojis: ~1774 |
 | Unicode: 14 | Unicode: 15 | Unicode: 15.1 |
 ---
-### MSFluent Emoji 3D (by: Microsoft)
+### MSFluent Emoji 3D (by: Microsoft x Studio Tendril)
 |15|
 |:---:|
 | Emojis: ~4100 |
@@ -37,6 +37,12 @@
 |:---:|
 | Emojis: 1739 |
 | Unicode: 14 |
+---
+### UnifontExMono (by: stgiga x Unifoundry)
+|15|
+|:---:|
+| Emojis: ~1774 |
+| Unicode: 15 |
 ---
 ### Docomo Symbol Emoji (by: meownica)
 |2000-era|
