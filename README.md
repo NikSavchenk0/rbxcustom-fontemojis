@@ -12,6 +12,15 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (opensource).
 > [!WARNING]
 > **COLRv1** is temporarily no support on Roblox.
 
+####  Abbreviations:
+
+- **<kbd>FOSS</kbd>** Free and Open Source. No indicator means is Closed Source.
+- **<kbd>FORK</kbd>** Uses the source code of an other project as a starting point, then adds modifications on top of it.
+- **<kbd>🪦</kbd>** Discontinued/paused indefinitely.
+- **<kbd>💰</kbd>** Paid.
+- **<kbd>📆</kbd>** That in development.
+- **<kbd>🏆</kbd>** Winner on nominations.
+
 #### ✨Clients:
 * <img src="https://i.ibb.co/4S2GBqw/2022-Site-Favicon.webp" alt="Roblox" width="17" height="17"/> [Roblox](http://www.roblox.com/) 
 * <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" alt="Bloxstrap" width="17" height="17"/> [Bloxstrap](http://github.com/pizzaboxer/bloxstrap) <sup>`FOSS`</sup>
@@ -30,16 +39,16 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (opensource).
 ## 📜To-Do
 *U - unicode version (minimal version unicode: 13)*
 - [x] MSWindows Color Emojis (8.0, 8.1, 10, 11.) (U: 6/14)
-- [x] Noto BnW Emojis (U: 14/15)
-- [x] Catmoji - modded Twemoji (U: 13)
-- [x] Emojione Color Emoji (U: 9)
-- [x] Emojione BnW Emojis (U: 12)
-- [x] Symbola BnW Emoji (U: 14)
-- [x] UnifontEx BnW Emoji (U: 15) **[coming soon/U: 16]**
-- [x] Docomo BnW Emoji (U: 3)
-- [ ] Catrinity Color Emoji (U: 15) **[coming soon/U: 16]**
-- [ ] Tossface Color Emoji (U: 14-15) **[coming soon/COLRv0]**
-- [ ] MSFluent Color Emoji 3D (U: 14-15) **[coming soon/COLRv1]** <sup>`🏆D&AD Award '23`</sup>
+- [x] Noto BnW Emojis (U: 14/15) <sup>`FOSS`</sup>
+- [x] Catmoji - modded Twemoji (U: 13) <sup>`🪦`</sup> <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- [x] Emojione Color Emoji (U: 9) <sup>`🪦`</sup> <sup>`FOSS`</sup>
+- [x] Emojione BnW Emojis (U: 12) <sup>`🪦`</sup> <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- [x] Symbola BnW Emoji (U: 14) <sup>`💰u15`</sup>
+- [x] UnifontEx BnW Emoji (U: 15) **[coming soon/U: 16]** <sup>`📆`</sup> <sup>`FOSS`</sup> <sup>`FORK`</sup>
+- [x] Docomo BnW Emoji (U: 3) <sup>`🪦`</sup> <sup>`FOSS`</sup>
+- [ ] Catrinity Color Emoji (U: 15) **[coming soon/U: 16]** <sup>`📆`</sup>
+- [ ] Tossface Color Emoji (U: 14-15) **[coming soon/COLRv0]** <sup>`📆`</sup> <sup>`FOSS`</sup>
+- [ ] MSFluent Color Emoji 3D (U: 14-15) **[coming soon/COLRv1]** <sup>`📆`</sup> <sup>`FOSS`</sup> <sup>`🏆D&AD Award '23`</sup>
 - [ ] Apple Color Emoji (U: 15) **[coming soon/COLRv1]**
 - [ ] Noto Color Emoji (U: 14)
 - [ ] Facebook/WhatsApp Color Emoji (U: 14)
