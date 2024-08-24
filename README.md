@@ -25,7 +25,7 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (opensource).
 * <img src="https://i.ibb.co/4S2GBqw/2022-Site-Favicon.webp" alt="Roblox" width="17" height="17"/> [Roblox](http://www.roblox.com/) 
 * <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" alt="Bloxstrap" width="17" height="17"/> [Bloxstrap](http://github.com/pizzaboxer/bloxstrap) <sup>`FOSS`</sup>
 * <img src="https://raw.githubusercontent.com/MaximumADHD/Roblox-Studio-Mod-Manager/master/ProjectSrc/Resources/Logo.png" alt="RbxSModManager" width="17" height="17"/> [Roblox Studio Mod Manager](http://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) <sup>`FOSS`</sup>
-* <img src="https://raw.githubusercontent.com/MaximumADHD/Roblox-Studio-Mod-Manager/master/ProjectSrc/Resources/Logo.png" alt="RbxSModManager" width="17" height="17"/> [Roblox Player Mod Manager](http://github.com/Malte0621/Roblox-Player-Mod-Manager) <sup>`FOSS`</sup>
+* <img src="https://raw.githubusercontent.com/MaximumADHD/Roblox-Studio-Mod-Manager/master/ProjectSrc/Resources/Logo.png" alt="RbxSModManager" width="17" height="17"/> [Roblox Player Mod Manager](http://github.com/Malte0621/Roblox-Player-Mod-Manager) <sup>`🪦`</sup> <sup>`FOSS`</sup>
 #### 🍎macOS:
 * <img src="https://github.com/OrigamingWasTaken/appleblox/raw/main/.github/assets/logo.png" alt="AppleBlox" width="17" height="17"/> [AppleBlox](https://github.com/OrigamingWasTaken/appleblox) <sup>`FOSS`</sup>
 #### 🐧Linux:
