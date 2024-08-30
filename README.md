@@ -47,10 +47,10 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (opensource).
 - [x] Symbola BnW Emoji (U: 14) <sup>`💰u15`</sup>
 - [x] UnifontEx BnW Emoji (U: 15) **[U: 16]** <sup>`📆`</sup> <sup>`FOSS`</sup> <sup>`FORK`</sup>
 - [x] Docomo BnW Emoji (U: 3) <sup>`🪦`</sup> <sup>`FOSS`</sup>
-- [ ] WadaLabMaruGo2004Emoji BnW Emoji (U: 15) **[U: 16]** <sup>`📆`</sup>
-- [ ] WadaLabChuMaruGo2004Emoji BnW Emoji (U: 15) **[U: 16]** <sup>`📆`</sup>
-- [ ] Nishiki-teki BnW Emoji (U: 15) **[U: 16]** <sup>`📆`</sup>
-- [ ] Catrinity Color Emoji (U: 15) **[U: 16]** <sup>`📆`</sup>
+- [ ] WadaLabMaruGo2004Emoji BnW Emoji (U: 15) **[U: 16]** <sup>`📆`</sup> <sup>`FOSS`</sup>
+- [ ] WadaLabChuMaruGo2004Emoji BnW Emoji (U: 15) **[U: 16]** <sup>`📆`</sup> <sup>`FOSS`</sup>
+- [ ] Nishiki-teki BnW Emoji (U: 15) **[U: 16]** <sup>`📆`</sup> <sup>`FOSS`</sup>
+- [ ] Catrinity Color Emoji (U: 15) **[U: 16]** <sup>`📆`</sup> <sup>`FOSS`</sup>
 - [ ] Tossface Color Emoji (U: 14-15) **[COLRv0]** <sup>`📆`</sup> <sup>`FOSS`</sup>
 - [ ] MSFluent Color Emoji 3D (U: 14-15) **[COLRv1]** <sup>`📆`</sup> <sup>`FOSS`</sup> <sup>`🏆D&AD Award '23`</sup>
 - [ ] Apple Color Emoji (U: 15) **[COLRv1]** <sup>`📆`</sup>
