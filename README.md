@@ -3,7 +3,7 @@
 </p-->
 
 # Custom Roblox EmojiFonts [<img src="assets/rbxcef-icon.png" width="200" align="right" alt="rbxcef-icon">]()
-You can use custom emojis on Roblox! Alternatives for Twemoji (opensource).
+You can use custom emojis on Roblox! Alternatives for Twemoji (FOSS).
 > [!IMPORTANT]
 > Modification is now avabilable on [Bloxstrap](http://github.com/pizzaboxer/bloxstrap), [GameBanana](https://gamebanana.com/mods/455178).
 
