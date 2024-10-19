@@ -99,7 +99,7 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (FOSS).
 >
 > **Why are some emoji not showing up in Roblox**
 > 
-> If the **128×128** size is larger than the original **100×100** size, or color fonts don't have **OpenType-SVG**<sup>[SVGinOT]</sup>, but only **COLRv1**, **COLRv0**, **SBIX**, **CBDT/CBLC**, they will be <ins>won't display</ins> or it will be <ins>monochrome</ins><sup>[BnW]</sup>.
+> If the **128×128** size is larger than the original **100×100** size, or color fonts don't have **OpenType-SVG**<sup>[SVGinOT]</sup>, but only **COLRv1**, **COLRv0**, **SBIX**, **CBDT/CBLC**, they will be <ins>won't display</ins> or it will be **monochrome**<sup>[BnW]</sup>.
 > Emoji are displayed slightly above the font text, they are cropped when the text box shows text near the top border of the window, it's a <ins>problem with the font itself</ins>.
 >
 > ***
