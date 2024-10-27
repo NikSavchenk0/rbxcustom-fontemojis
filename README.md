@@ -41,7 +41,7 @@ You can use custom emojis on Roblox! Alternatives for Twemoji (FOSS).
 ## 📜To-Do
 *U - unicode version (minimal version unicode: 13)*
 - [x] Twitter BnW/Color Emojis SVGinOT (U: 15) **[U: 16]** <sup>`📆`</sup> <sup>`FOSS`</sup>
-- [x] MSWindows Color Emojis (8.0, 8.1, 10, 11.) (U: 6/14)
+- [x] MSWindows Color Emojis (8.0, 8.1, 10, 11.) (U: 6/14) <sup>`🪦`</sup>
 - [x] Noto BnW Emojis (U: 14/16) **[U: 17]** <sup>`📆`</sup> <sup>`FOSS`</sup>
 - [x] TwemojiMozilla Color Emojis (U: 13) <sup>`🪦`</sup> <sup>`FOSS`</sup>
 - [x] Catmoji - modded Twemoji (U: 13) <sup>`🪦`</sup> <sup>`FOSS`</sup> <sup>`FORK`</sup>
